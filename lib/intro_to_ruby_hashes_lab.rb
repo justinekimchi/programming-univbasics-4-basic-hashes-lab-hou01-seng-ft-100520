@@ -12,5 +12,5 @@ end
 
 
 def id_hash_generator(number)
-  {:id => 32}
+  {:id => '32'}
 end
